@@ -1,0 +1,6 @@
+discord.py
+python-dotenv
+yt-dlp
+pynacl
+# Download and install ffmpeg from https://ffmpeg.org/download.html and add it to your system's PATH environment variable.
+# ffmpeg-python
